@@ -1,0 +1,106 @@
+{
+  "house04": {
+    "name": "打铁铺",
+    "featured": true,
+    "mock": true,
+    "category": "传统作坊",
+    "era": "民国时期（待考证）",
+    "structure": "砖砌墙体，两层平顶（据航拍判读）",
+    "floors": 2,
+    "status": "底层临街铺面，上层闲置（据航拍判读）",
+    "summary": "街口的老打铁铺，曾为周边居民打制农具与生活铁器，是街区手工业记忆的见证。会议提出将其改造为文创工坊，保留炉灶、铁砧等记忆元素，让老手艺以新的方式延续。",
+    "tags": ["临街铺面", "手工技艺", "活化利用"],
+    "history": [
+      { "year": "民国（待考）", "text": "建成，作为家庭式打铁作坊" },
+      { "year": "1980年代", "text": "农具需求下降，逐步兼营五金杂货", "mock": true },
+      { "year": "2023年", "text": "纳入无人机实景三维采集" },
+      { "year": "2026年", "text": "提出文创工坊改造设想" }
+    ],
+    "oral": [
+      { "speaker": "街坊老人（示意）", "text": "小时候天天听见这边叮叮当当，锄头、镰刀坏了都拿来这里补。" }
+    ],
+    "photos": [
+      { "src": "/Architectural_imagery/打铁铺1.jpg", "caption": "建筑影像 01 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/打铁铺2.jpg", "caption": "建筑影像 02 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/打铁铺3.jpg", "caption": "建筑影像 03 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/打铁铺4.jpg", "caption": "建筑影像 04 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/打铁铺5.jpg", "caption": "建筑影像 05 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/打铁铺6.jpg", "caption": "建筑影像 06 · 鱼眼原图，拍摄点待核实" }
+    ],
+    "materials": [
+      { "name": "影像素材（对应点位待核）", "done": true },
+      { "name": "口述记录", "done": false },
+      { "name": "测绘图纸", "done": false },
+      { "name": "产权信息", "done": false }
+    ],
+    "plan": {
+      "title": "打铁铺 → 文创工坊",
+      "description": "概念方案以传统街巷尺度和手工业记忆为线索，设想将临街空间用于展示与体验。图像仅用于讨论空间氛围、立面和功能方向，具体做法需依据现场测绘、结构安全评估及保护要求确定。",
+      "stage": "概念设想 · 尚未实施",
+      "renderings": [
+        { "src": "/Preview_image/大铁铺1.png", "caption": "临街立面与工坊入口设想" },
+        { "src": "/Preview_image/大铁铺2.png", "caption": "街巷视角与建筑体量设想" }
+      ],
+      "ideas": [
+        "保留炉灶与铁砧，作为可体验的展陈装置",
+        "底层改为文创售卖与手作体验空间",
+        "二层作为街区记忆展室，展示老照片与口述史",
+        "临街立面按原貌修缮，统一招牌样式"
+      ],
+      "votes": { "support": 18, "neutral": 5, "oppose": 2 }
+    }
+  },
+  "house05": {
+    "name": "沙氏祖屋",
+    "featured": true,
+    "mock": true,
+    "category": "宗族祖屋",
+    "era": "清末（待考证）",
+    "structure": "砖木结构，坡屋面，前廊连续拱券（据航拍判读）",
+    "status": "屋面基本完整，前廊局部破损、植被侵入（待现场核实）",
+    "summary": "沙氏家族的祖屋，前廊连续拱券是其最鲜明的特征。散居各地的沙氏后人可以在这里共同了解祖屋历史、讨论修缮与再利用方案，形成家族的线上“小世界”。",
+    "tags": ["家族记忆", "前廊拱券", "参与式设计试点"],
+    "history": [
+      { "year": "清末（待考）", "text": "沙氏先祖兴建祖屋" },
+      { "year": "20世纪中后期", "text": "族人陆续外迁，祖屋逐渐空置", "mock": true },
+      { "year": "2023年", "text": "纳入无人机实景三维采集" },
+      { "year": "2026年", "text": "作为家族参与式设计试点" }
+    ],
+    "oral": [
+      { "speaker": "沙氏族人（示意）", "text": "过年时全族人都回到祖屋，前廊下摆满桌子，一起吃团圆饭。" }
+    ],
+    "photos": [
+      { "src": "/Architectural_imagery/沙氏祖屋1.jpg", "caption": "建筑影像 01 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/沙氏祖屋2.jpg", "caption": "建筑影像 02 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/沙氏祖屋3.jpg", "caption": "建筑影像 03 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/沙氏祖屋4.jpg", "caption": "建筑影像 04 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/沙氏祖屋5.jpg", "caption": "建筑影像 05 · 鱼眼原图，拍摄点待核实" },
+      { "src": "/Architectural_imagery/沙氏祖屋6.jpg", "caption": "建筑影像 06 · 鱼眼原图，拍摄点待核实" }
+    ],
+    "materials": [
+      { "name": "影像素材（对应点位待核）", "done": true },
+      { "name": "族谱", "done": false },
+      { "name": "口述记录", "done": false },
+      { "name": "测绘图纸", "done": false }
+    ],
+    "plan": {
+      "title": "家族议事厅与家史展陈",
+      "description": "概念方案设想以家族记忆展示和公共议事为主要用途，保留传统屋面与灰砖立面的视觉特征，并整理入口和院落空间。图像仅展示可能的更新方向，不代表已核准的修缮设计。",
+      "stage": "概念设想 · 尚未实施",
+      "renderings": [
+        { "src": "/Preview_image/沙家祖宅1.png", "caption": "建筑与院落鸟瞰设想" },
+        { "src": "/Preview_image/沙家祖宅2.png", "caption": "正立面与入口空间设想" }
+      ],
+      "ideas": [
+        "加固并修复前廊拱券，保留原有砖砌肌理",
+        "正厅布置族谱与老照片展陈",
+        "院落整理为族人聚会与菜园空间",
+        "同步线上三维档案，海外族人可远程参与"
+      ],
+      "votes": { "support": 24, "neutral": 3, "oppose": 1 }
+    }
+  },
+  "house01": { "name": "大庙", "featured": false, "category": "庙宇" },
+  "house02": { "name": "小庙", "featured": false, "category": "庙宇" },
+  "house03": { "name": "厂房", "featured": false, "category": "近现代厂房" }
+}

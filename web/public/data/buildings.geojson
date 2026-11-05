@@ -1,0 +1,210 @@
+{
+  "type": "FeatureCollection",
+  "name": "tuocheng_buildings",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "house01",
+        "name": "大庙",
+        "baseHeight": 67.5,
+        "topHeight": 82,
+        "heightOffset": 0,
+        "createdAt": "2026-10-25T16:24:31.791Z",
+        "area": 474.4,
+        "perimeter": 87.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.1862537,
+              24.0622259
+            ],
+            [
+              115.1864918,
+              24.0623032
+            ],
+            [
+              115.1865503,
+              24.0621832
+            ],
+            [
+              115.1865525,
+              24.062147
+            ],
+            [
+              115.1863196,
+              24.062073
+            ],
+            [
+              115.1862537,
+              24.0622259
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "house02",
+        "name": "小庙",
+        "baseHeight": 67,
+        "topHeight": 82.5,
+        "heightOffset": 0,
+        "createdAt": "2026-10-25T16:27:07.248Z",
+        "area": 265.8,
+        "perimeter": 67.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.1861146,
+              24.0626843
+            ],
+            [
+              115.1861536,
+              24.06258
+            ],
+            [
+              115.1863518,
+              24.062641
+            ],
+            [
+              115.1863073,
+              24.0627509
+            ],
+            [
+              115.1861146,
+              24.0626843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "house03",
+        "name": "厂房",
+        "baseHeight": 68,
+        "topHeight": 82,
+        "heightOffset": 0,
+        "createdAt": "2026-10-25T16:29:09.728Z",
+        "area": 750.9,
+        "perimeter": 124.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.1855875,
+              24.0610253
+            ],
+            [
+              115.185555,
+              24.0611682
+            ],
+            [
+              115.1851144,
+              24.0610692
+            ],
+            [
+              115.1851561,
+              24.0609234
+            ],
+            [
+              115.1855875,
+              24.0610253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "house04",
+        "name": "打铁铺",
+        "baseHeight": 68,
+        "topHeight": 80,
+        "heightOffset": 0,
+        "createdAt": "2026-10-25T16:41:33.628Z",
+        "area": 198.0,
+        "perimeter": 56.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.1865134,
+              24.0611615
+            ],
+            [
+              115.1864735,
+              24.0612729
+            ],
+            [
+              115.1863272,
+              24.0612359
+            ],
+            [
+              115.1863567,
+              24.0611308
+            ],
+            [
+              115.1865134,
+              24.0611615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "house05",
+        "name": "沙氏祖屋",
+        "baseHeight": 66,
+        "topHeight": 80,
+        "heightOffset": 0,
+        "createdAt": "2026-10-25T16:56:01.058Z",
+        "area": 374.2,
+        "perimeter": 83.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.18973,
+              24.0642066
+            ],
+            [
+              115.1898386,
+              24.0641457
+            ],
+            [
+              115.1900045,
+              24.0643452
+            ],
+            [
+              115.1899013,
+              24.0644194
+            ],
+            [
+              115.18973,
+              24.0642066
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

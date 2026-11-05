@@ -1,0 +1,28 @@
+# Local secrets and machine settings
+.env
+.env.*
+!.env.example
+!**/.env.example
+.idea/
+**/.vscode/
+
+# Dependencies, builds, and caches
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.log
+
+# Large or source data: publish separately only after rights review
+data_raw/
+data_tiles/
+data_mode/
+data_test/
+data_shp/
+gis/
+anaconda_projects/
+tmp/
+ui-review/
+web/Reference/
+
