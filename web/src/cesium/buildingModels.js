@@ -69,7 +69,7 @@ export async function loadBuildingModels(viewer, features) {
 
     try {
       const model = await Cesium.Model.fromGltfAsync({
-        url: `/models/${encodeURIComponent(entry.file)}`,
+        url: `${import.meta.env.BASE_URL}models/${encodeURIComponent(entry.file)}`,
         modelMatrix: frame,
       })
       if (viewer.isDestroyed()) { model.destroy(); return controller }
