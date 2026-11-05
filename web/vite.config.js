@@ -42,8 +42,9 @@ function copyCesiumOnBuild() {
 }
 
 export default defineConfig({
+  base: '/Tuocheng/',
   define: {
-    CESIUM_BASE_URL: JSON.stringify(`/${cesiumBaseUrl}`),
+    CESIUM_BASE_URL: JSON.stringify(`/Tuocheng/${cesiumBaseUrl}`),
   },
   plugins: [
     vue(),
